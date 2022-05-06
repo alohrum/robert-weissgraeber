@@ -24,7 +24,7 @@ Demonstrationsbeginn 17:45 Uhr
 
 ### Probleme der Personalstrategie, die es zu lösen gilt
 * keine vernünftiges Personalmanagement durch die Stadtverwaltung
-* Um das Bestandspersonal  wird sich nicht gekümmert
+* Um das Bestandspersonal wird sich nicht gekümmert
 * Bedarf und Forderungen der Erzieher:innen und Kitaleitungen wird ignoriert
 * keine erfolgreichen Massnahmen zur Personal-neugewinnung
 

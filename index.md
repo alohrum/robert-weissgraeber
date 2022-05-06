@@ -26,12 +26,12 @@ Demonstrationsbeginn 17:45 Uhr
 * keine vernünftiges Personalmanagement durch die Stadtverwaltung
 * Um das Bestandspersonal wird sich nicht gekümmert
 * Bedarf und Forderungen der Erzieher:innen und Kitaleitungen wird ignoriert
-* keine erfolgreichen Massnahmen zur Personal-neugewinnung
+* keine erfolgreichen Massnahmen zur Personal-Neugewinnung
 
 ### Ziele
 * Personalfluktuation von Bestandspersonal auf überdurchschnittliche Qualität bringen
 * erfolgreiche Neu-Gewinnung von Erzieher:innen
-* damit wieder flächendecken volle Öffnungszeiten angeboten werden
+* damit wieder flächendeckend volle Öffnungszeiten angeboten werden
 
 
 ![Logo](/eltern-le.png)
